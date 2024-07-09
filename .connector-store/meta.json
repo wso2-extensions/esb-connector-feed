@@ -4,7 +4,7 @@
     "category": "Social Media",
     "documentationUrl": "https://docs.wso2.com/display/ESBCONNECTORS/Feed+Inbound+and+Connector",
     "description": "The Feed connector allows you to Create Atom Feeds through WSO2 ESB. Feed Connector facilitates to get and create Feeds, Update, Delete Feeds. The Feed inbound endpoint allows you to Consume feeds through WSO2 ESB.",
-    "status": "Unsupported",
+    "status": "Active",
     "labels": [
         "connector"
     ],
